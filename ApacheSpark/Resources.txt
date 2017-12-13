@@ -1,0 +1,11 @@
+https://github.com/mahmoudparsian/pyspark-tutorial
+
+https://github.com/PacktPublishing/Learning-PySpark
+
+https://github.com/XD-DENG/Spark-practice
+
+https://github.com/zekelabs/pyspark
+
+https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python
+
+official docs -> http://spark.apache.org/docs/2.1.0/api/python/pyspark.html
