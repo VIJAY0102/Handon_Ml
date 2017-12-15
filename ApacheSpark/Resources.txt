@@ -8,4 +8,12 @@ https://github.com/zekelabs/pyspark
 
 https://districtdatalabs.silvrback.com/getting-started-with-spark-in-python
 
+<<<<<<< HEAD
 official docs -> http://spark.apache.org/docs/2.1.0/api/python/pyspark.html
+
+about Transformation
+https://data-flair.training/blogs/spark-rdd-operations-transformations-actions/
+https://data-flair.training/blogs/dag-in-apache-spark/
+=======
+official docs -> http://spark.apache.org/docs/2.1.0/api/python/pyspark.html
+>>>>>>> b975086a874ffa33b7dd0469f8e81c68043a3f99
