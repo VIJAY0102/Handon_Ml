@@ -1,3 +1,4 @@
 import sys
 
-print("Hello")
+for line in sys.stdin:
+	print("Hello    " + line)
