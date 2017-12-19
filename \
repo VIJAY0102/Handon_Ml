@@ -1,0 +1,8 @@
+# Omitting Folder
+.ipynb_checkpoints/
+metastore_db/
+__pycache__/
+
+#omitting Files
+derby.log
+*.pyc
